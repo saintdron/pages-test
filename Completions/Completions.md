@@ -2,9 +2,8 @@
 ```php
 # @todo basic description & terminology 
 ```
-- [Auto-Completion](#auto-completion)
-- [Live templates](#live-templates)
-- [Other plugins](#other-plugins)
+* TOC
+{:toc}
 
 
 ## Auto-Completion
