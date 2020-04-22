@@ -1,3 +1,9 @@
+- [Completions](/Completions/Completions.md)
+    - [Auto-Completion](/Completions/Completions.md#auto-completion)
+    - [Live templates](/Completions/Completions.md#live-templates)
+    - [Other plugins](/Completions/Completions.md#other-plugins)
+- [Auto Import](/AutoImport/AutoImport.md)
+
 * TOC
 {:toc}
 
@@ -8,6 +14,7 @@ You can use the [editor on GitHub](https://github.com/saintdron/pages-test/edit/
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
+{:.no_toc}
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
