@@ -1,6 +1,7 @@
 * TOC
 {:toc}
 
+{% include_relative README.md %}
 
 # Completions
 ```php
