@@ -1,10 +1,11 @@
+* TOC
+{:toc}
+
+
 # Completions
 ```php
 # @todo basic description & terminology 
 ```
-* TOC
-{:toc}
-
 
 ## Auto-Completion
 Это классическое авто-дополнение кода при наборе названия
