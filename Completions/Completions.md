@@ -1,8 +1,6 @@
 * TOC
 {:toc}
 
-{% include_relative /adding.md %}
-
 # Completions
 ```php
 # @todo basic description & terminology 
